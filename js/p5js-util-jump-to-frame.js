@@ -51,7 +51,7 @@ const p5jsSetupJumpToFrame = function() {
   jumpToFrameInput = document.createElement('input');
   jumpToFrameInputCurrent = document.createElement('input');
 
-  jumpToFrameBtn.innerText = 'Ugrás a kockára';
+  jumpToFrameBtn.innerText = 'Jump to frame';
 
   jumpToFrameInput.id = 'js-p5js-util-jump-to-frame-target';
   jumpToFrameInput.type = 'number';

@@ -27,7 +27,7 @@ const p5jsSetupTogglePlay = function() {
 
   togglePlayBtn = document.createElement('button');
 
-  togglePlayBtn.innerText = 'Lejátszás / Szünet';
+  togglePlayBtn.innerText = 'Pause / Play';
 
   togglePlayForm.appendChild(togglePlayBtn);
 

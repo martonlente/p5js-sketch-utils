@@ -60,8 +60,8 @@ const p5jsSetupSaveFrames = function() {
   saveFramesInputFilename = document.createElement('input');
   saveFramesInputStart = document.createElement('input');
 
-  saveFrameBtn.innerText = 'Kép mentése';
-  saveFramesBtn.innerText = 'Képsorozat mentése';
+  saveFrameBtn.innerText = 'Save image';
+  saveFramesBtn.innerText = 'Save image sequence';
 
   saveFramesInputFilename.id = 'js-p5js-util-save-frames-filename';
   saveFramesInputFilename.type = 'text';
