@@ -2639,3 +2639,6 @@ input[type=number] {
 .helper-p5js-utils-credits {
   font-size: 1rem;
 }
+.helper-p5js-utils-credits a {
+  text-transform: none;
+}

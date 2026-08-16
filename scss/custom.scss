@@ -113,6 +113,10 @@ input:hover {
   @extend .text-uppercase;
 
   font-size: 1.0rem;
+
+  a {
+    text-transform: none;
+  }
 }
 
 .input-group {

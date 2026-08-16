@@ -7,7 +7,9 @@ const p5jsSetupCredits = function() {
   credits.innerHTML = `University of Győr<br>
     Design Campus<br>
     Graphic design MA 1<br>
-    Márton Lente, Győr 2026`;
+    Márton Lente, Győr 2026<br>
+    <br>
+    <a href="https://martonlente.com" target="_blank">martonlente.com</a>`;
 
   helperP5jsUtils.appendChild(credits);
 }
