@@ -53,7 +53,7 @@ This project requires Node.js and npm to be installed on your machine.
 TODO
 
 ## Version
-TODO
+0.1.0
 
 ## Credits
 I've started this project at the _University of Győr, [Design Campus](https://designcampus.hu)_, Graphic Design MA in 2026.
