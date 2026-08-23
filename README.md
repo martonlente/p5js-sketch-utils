@@ -56,7 +56,7 @@ TODO
 TODO
 
 ## Credits
-I've started this project at the University of Győr, [Design Campus](https://designcampus.hu), Graphic Design MA in 2026.
+I've started this project at the _University of Győr, [Design Campus](https://designcampus.hu)_, Graphic Design MA in 2026.
 
 ## License
 TODO
