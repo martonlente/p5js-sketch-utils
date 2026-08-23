@@ -59,4 +59,4 @@ TODO
 I've started this project at the _University of Győr, [Design Campus](https://designcampus.hu)_, Graphic Design MA in 2026.
 
 ## License
-TODO
+p5js-sketch-utils is licensed under the [Apache 2.0](https://github.com/martonlente/p5js-sketch-utils/blob/main/LICENSE) license.
