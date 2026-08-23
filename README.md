@@ -49,8 +49,14 @@ to start the SCSS compiler, and add your changes to the `/scss/custom.scss` file
 ## Dependencies
 This project requires Node.js and npm to be installed on your machine.
 
+## Screenshot
+TODO
+
 ## Version
 TODO
+
+## Credits
+I've started this project at the University of Győr, [Design Campus](https://designcampus.hu), Graphic Design MA in 2026.
 
 ## License
 TODO
