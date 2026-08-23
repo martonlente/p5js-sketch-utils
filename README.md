@@ -50,7 +50,7 @@ to start the SCSS compiler, and add your changes to the `/scss/custom.scss` file
 This project requires Node.js and npm to be installed on your machine.
 
 ## Screenshot
-TODO
+![Screenshot](./screenshot.png)
 
 ## Version
 0.1.0
