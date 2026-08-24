@@ -73,7 +73,7 @@ This project requires Node.js and npm to be installed on your machine.
 ![Screenshot](./screenshot.png)
 
 ## Version
-0.1.0
+1.0.0-alpha
 
 ## Credits
 I've started this project at the _University of Győr, [Design Campus](https://designcampus.hu), Graphic Design MA_ in 2026.
