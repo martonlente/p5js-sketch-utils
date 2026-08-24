@@ -1,7 +1,7 @@
 import { p5jsInitUtil, p5jsSetupUtil } from '../p5js-util-main.js';
 import { p5jsSetupCanvas } from '../p5js-util-setup-canvas.js';
 
-const bg = "#f1f1f1";
+const bg = "hsl(0, 0%, 95%)";
 const fg = bg;
 
 const sketch = function(p) {
