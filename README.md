@@ -36,6 +36,19 @@ This will launch a local server, and you can access the controls UI and sketches
 ### Add a new sketch
 To add a new sketch, create a new JavaScript file in the `sketches` directory. Use the existing `sketch.js` file as an example reference for functionality and structure.
 
+#### Setup sketch canvas
+To setup the sketch canvas, use the bundled `p5jsSetupCanvas` function utility:
+```
+p5jsSetupCanvas(p, {pxWidth}, {pxHeight}, {true});
+```
+
+Pass in `true` to enable WebGL rendering for 3D sketches.
+
+Example:
+```
+p5jsSetupCanvas(p, 1080, 1080, true);
+```
+
 ### Render the new sketch
 To render the new sketch, call an URL with the following format scheme: `http://localhost:3000/?js={sketch-custom}.js`
 
