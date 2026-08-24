@@ -76,7 +76,7 @@ This project requires Node.js and npm to be installed on your machine.
 0.1.0
 
 ## Credits
-I've started this project at the _University of Győr, [Design Campus](https://designcampus.hu)_, Graphic Design MA in 2026.
+I've started this project at the _University of Győr, [Design Campus](https://designcampus.hu), Graphic Design MA_ in 2026.
 
 ## License
 p5js-sketch-utils is licensed under the [Apache 2.0](https://github.com/martonlente/p5js-sketch-utils/blob/main/LICENSE) license.
