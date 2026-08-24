@@ -10,7 +10,14 @@ I've created this repository as a starting point and utility framework to suppor
 ### Start a project
 To start using the framework, clone this repository.
 
-### Install dependencies
+### Initialize and install dependencies
+To initialize and update the git submodules, run:
+
+```
+git submodule init
+git submodule update
+```
+
 To install the dependencies, navigate to the project directory and run:
 
 ```
