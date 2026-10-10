@@ -11,17 +11,23 @@ I've created this repository as a starting point and utility framework to suppor
 To start using the framework, clone this repository.
 
 ### Initialize and install dependencies
-To initialize and update the git submodules, run:
+To register git submodules, run:
 
 ```
-git submodule init
-git submodule update
+git submodule add https://github.com/martonlente/baseutil-css.git baseutil-css
 ```
 
 To install the dependencies, navigate to the project directory and run:
 
 ```
 npm install
+```
+
+### Add remote upstream repository
+To add this repository as a remote upstream repository, run:
+
+```
+git remote add upstream https://github.com/martonlente/p5js-sketch-utils.git
 ```
 
 ### Start the dev server
